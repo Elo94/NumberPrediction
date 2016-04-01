@@ -87,3 +87,4 @@ def obtenerPromedioLabelDelIndice(dicDatos,indiceLabel):
 dicDatos = cargarDatos('train.csv')
 print dicDatos[0]
 print "hola"
+print "chau"
